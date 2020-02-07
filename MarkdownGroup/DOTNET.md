@@ -54,6 +54,7 @@ https://docs.microsoft.com/zh-cn/aspnet/core/tutorials/first-web-api?view=aspnet
 1. [ServiceStack Web Service 创建与调用简单示列](https://www.cnblogs.com/woxpp/p/5012947.html)
 2. [ServiceStack官网](https://servicestack.net/)
 3. [.asax文件是什么](https://www.cnblogs.com/I-am-Betty/archive/2010/09/06/1819558.html)
+4. [详细的文件扩展名 .asax](https://www.filedesc.com/zh/file/asax)
 
 # 4. ASP.Net前后端交互方式
 
